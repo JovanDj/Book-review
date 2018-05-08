@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'simple_form', '~> 4.0'
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
-
+gem 'devise', '~> 4.4', '>= 4.4.3'
 
 
 # Use Capistrano for deployment
